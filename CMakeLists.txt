@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.10)
+project(TGC C)
+add_executable(test1 test1.c)
+add_executable(test2 test2.c)
+add_executable(test3 test3.c)
+add_executable(test4 test4.c)
+add_executable(test5 test5.c)
+add_executable(test6 test6.c)
+add_executable(test7 test7.c)
+add_executable(test8 test8.c)
+add_executable(test9 test9.c)
+add_executable(test10 test10.c)
+

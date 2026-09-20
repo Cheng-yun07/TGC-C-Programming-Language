@@ -7,7 +7,7 @@
 <br>
 
 <a href="http://www.tgc.edu.cn">
-  <img src="https://img.shields.io/badge/三职官网-blue" alt="三职官网">
+  <img src="https://img.shields.io/badge/三职大官网-blue" alt="三职大官网">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://v.douyin.com/BNZKom-4MRs/">
